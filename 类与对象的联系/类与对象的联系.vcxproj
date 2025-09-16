@@ -19,13 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="const修饰的常函数.cpp" />
-    <ClCompile Include="this指针的使用.cpp" />
-    <ClCompile Include="友元.cpp" />
-    <ClCompile Include="深拷贝与浅拷贝.cpp" />
+    <ClCompile Include="多态.cpp" />
     <ClCompile Include="继承.cpp" />
-    <ClCompile Include="运算符重载.cpp" />
-    <ClCompile Include="静态成员和静态函数.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
