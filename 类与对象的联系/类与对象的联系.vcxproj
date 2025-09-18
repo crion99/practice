@@ -19,8 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="多态.cpp" />
-    <ClCompile Include="继承.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="polymorphic.h" />
+    <ClCompile Include="inherit.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

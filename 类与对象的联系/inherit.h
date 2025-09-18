@@ -45,8 +45,7 @@ void test02(){
 	cout << d_s.age << endl;//虚继承后，可以用这种方式
 }
 
-int main() {
+void inherit() {
 	test01();
 	test02();
-	return 0;
 }

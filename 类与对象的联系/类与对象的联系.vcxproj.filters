@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="继承.cpp">
+    <ClCompile Include="polymorphic.h">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="多态.cpp">
+    <ClCompile Include="inherit.h">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
